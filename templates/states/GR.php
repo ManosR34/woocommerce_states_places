@@ -7,7 +7,7 @@
  * Source: 
  * - [Please add the source(s) link(s) to check the list of places]
  *
- * @author  Your Name Here <yourname@here.com> | https://yourwebsite.com
+ * @author  Manos Romanos <manosR34@gmail.com> 
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
